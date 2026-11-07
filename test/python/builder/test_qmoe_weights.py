@@ -188,6 +188,7 @@ def _load_builder_cli_module(monkeypatch):
         "Qwen25VLTextModel",
         "Qwen35MoETextModel",
         "Qwen35TextModel",
+        "Qwen3ASRModel",
         "Qwen3Model",
         "Qwen3VLTextModel",
         "Qwen4ExpModel",
